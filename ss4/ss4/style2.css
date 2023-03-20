@@ -1,0 +1,31 @@
+h2 {
+    color: green;
+    background-color: blue;
+}
+
+h4 {
+    color: honeydew;
+    background-color: firebrick !important;
+}
+#hihi { color: mediumslateblue;}
+.name {color: rgb(190, 171, 60) !important}
+#name
+{
+    color: rgb(13,06,98);background-color: lightgreen;background-image: url(./images/phuong-nhi12-16742132247382142379323-crop-16742132331001518865785.jpeg);
+    background-size: cover; 
+    background-position:-17px 30px;
+    background-repeat: repeat;
+    background-origin: content-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: 50px
+    ;
+   text-align: center;
+    border: 50px  outset rgb(51, 153, 114);
+   border-radius: 40px;
+   padding: 40px;
+   margin: 90px : 10px;
+   
+   
+   
+}

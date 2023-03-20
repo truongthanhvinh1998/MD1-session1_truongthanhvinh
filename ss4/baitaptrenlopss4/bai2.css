@@ -1,0 +1,32 @@
+.red{color: crimson;
+background-color: darkseagreen;}
+.green{
+    
+text-align: center;
+border: 5px solid green;
+padding: 30px
+;
+}
+h2{ padding: 50px;color: rgb(51, 172, 194);
+    background-color: gray;
+}
+.center{
+    color: indianred;
+   
+    background-color: antiquewhite;
+}
+.gr{color: blue;}
+.center{color: crimson;}
+.ex{
+   background-color: rgb(241, 232, 232);
+}
+.soso{
+    border-left: 15px solid rgb(17, 145, 26);
+    padding: 50px ;
+    background-color: rgb(245, 245, 231);
+}
+.try{
+    border-radius: 50px;
+    background-color: limegreen;
+    color: white;
+}
