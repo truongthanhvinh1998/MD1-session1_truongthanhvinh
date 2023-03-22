@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boxx {
+    background-color: rgb(229, 221, 237);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.boxx .child {}
+
+.boxx .box1 {
+    background-color: rgb(25, 45, 45);
+    width: 1000px;
+    height: 100px;
+    font-size: xx-small;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+
+
+
+}
+
+.boxx .box1 .box1-1 {}
+
+.boxx .box2 {
+    background-color: aquamarine;
+    width: 1000px;
+    
+    text-align: center;
+    background-size: 30px 30px;
+
+}
+
+.boxs {
+    border-top: 10px solid blueviolet;
+    background-color: rgb(84, 71, 96);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.boxs .box3 .imgg {
+
+    border: 5px solid white;
+    display: flex;
+
+
+    flex-wrap: wrap;
+    width: 1000px;
+    justify-content: space-between;
+
+}
+
+.box3 .imgg img {
+    margin-top: 20px;
+}
+
+.boxs .box3 .por {
+    text-align: center;
+    background-color: white;
+}
+
+.boxs .box4 .isa {
+    display: flex;
+    width: 1000px;
+    background-color: aquamarine;
+
+}
+
+.boxs .box4 .flox {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.boxs .box5 .box5-1 {
+    text-align: center;
+    background-color: white;
+}
+
+.boxs .box5 .box5-2 {
+    text-align: start;
+    background-color: white;
+}
+
+.boxs .box5 {
+    width: 1000px;
+    
+
+}
+
+.boxs .box5 .send {
+    color: azure;
+
+    background-color: lightseagreen;
+    text-align: end;
+    border-radius: 50px;
+}
+
+.boxr .box6 {
+    font-size: small;
+    background-color: dimgray;
+    margin: auto;
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.boxr .box7 {
+    width: 1000px;
+    text-align: center;
+    background-color: lightslategrey;
+    margin: auto;
+
+}
+.boxs .box4 .download{
+    background-color: springgreen;
+    color: azure;
+margin: auto;
+ border: 5px solid wheat;
+}
+.boxs .box4{
+    display: flex;
+    flex-direction: column;
+    background-color: lightseagreen;
+}
